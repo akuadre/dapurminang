@@ -29,7 +29,7 @@
     </nav>
 
     <!-- Isi Konten -->
-    <main class="container min-h-screen mx-auto pt-28 p-8">
+    <main class="container min-h-screen mx-auto pt-28 p-8 relative">
         <div class="" data-aos="fade-down" data-aos-duration="800" data-aos-delay="10">
             <h1 class="text-3xl font-bold text-center text-gray-800">
                 @yield('header_page', 'Halaman Dapur Minang')

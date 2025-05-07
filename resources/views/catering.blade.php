@@ -11,9 +11,9 @@
     <div class="bg-gray-800 p-6 rounded-lg shadow-lg text-center text-white" data-aos="fade-up" data-aos-duration="800">
         <h2 class="text-3xl font-bold">Catering Box</h2>
         <p class="text-gray-300 mt-2 max-w-2xl mx-auto">
-            Nasi Kotak dalam kemasan dus kami adalah pilihan praktis dan berkualitas untuk berbagai acara. 
-            Dibuat dengan bahan-bahan segar, nasi kotak ini disajikan dengan cita rasa autentik yang lezat. 
-            Semua menu telah bersertifikasi halal, sehingga aman untuk dinikmati oleh semua kalangan. 
+            Nasi Kotak dalam kemasan dus kami adalah pilihan praktis dan berkualitas untuk berbagai acara.
+            Dibuat dengan bahan-bahan segar, nasi kotak ini disajikan dengan cita rasa autentik yang lezat.
+            Semua menu telah bersertifikasi halal, sehingga aman untuk dinikmati oleh semua kalangan.
             Dapatkan promo khusus setiap bulannya!
         </p>
         <button class="mt-6 bg-green-500 text-white px-6 py-3 rounded-full font-semibold hover:bg-green-600 transition" onclick="window.location.href='{{ route('kontak') }}'">
@@ -41,7 +41,7 @@
 <p class="text-left text-gray-600 mt-2">Pilih paket makanan sesuai kebutuhan acara Anda dan buat pesanan dengan mudah.</p>
 
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
-    
+
     <!-- Paket Rendang -->
     <div class="bg-white rounded-lg shadow-lg p-6 hover:scale-105 transition-transform duration-300 flex flex-col items-center text-center" data-aos="fade-up" data-aos-duration="500" data-aos-delay="600">
         <h2 class="text-xl font-semibold">Paket Rendang</h2>
@@ -55,7 +55,7 @@
             <li>Sambal Ijo</li>
             <li>Kerupuk Jangek</li>
         </ul>
-        <button class="mt-4 bg-green-600 text-white px-4 py-2 rounded-full hover:bg-green-700 w-full">Pesan Sekarang</button>
+        <a href="https://wa.me/+6288222134661" class="mt-4 bg-green-600 text-white px-4 py-2 rounded-full hover:bg-green-700 w-full">Pesan Sekarang</a>
     </div>
 
     <!-- Paket Sate Padang -->
@@ -71,7 +71,7 @@
             <li>Sambal Merah</li>
             <li>Kerupuk Kulit</li>
         </ul>
-        <button class="mt-4 bg-yellow-600 text-white px-4 py-2 rounded-full hover:bg-yellow-700 w-full">Pesan Sekarang</button>
+        <a href="https://wa.me/+6288222134661" class="mt-4 bg-yellow-600 text-white px-4 py-2 rounded-full hover:bg-yellow-700 w-full">Pesan Sekarang</a>
     </div>
 
     <!-- Paket Dendeng Batokok -->
@@ -87,7 +87,7 @@
             <li>Sayur Daun Singkong</li>
             <li>Kerupuk Merah</li>
         </ul>
-        <button class="mt-4 bg-red-600 text-white px-4 py-2 rounded-full hover:bg-red-700 w-full">Pesan Sekarang</button>
+        <a href="https://wa.me/+6288222134661" class="mt-4 bg-red-600 text-white px-4 py-2 rounded-full hover:bg-red-700 w-full">Pesan Sekarang</a>
     </div>
 
     <!-- Paket Ayam Pop -->
@@ -103,7 +103,7 @@
             <li>Sayur Daun Singkong</li>
             <li>Kerupuk Jangek</li>
         </ul>
-        <button class="mt-4 bg-blue-600 text-white px-4 py-2 rounded-full hover:bg-blue-700 w-full">Pesan Sekarang</button>
+        <a href="https://wa.me/+6288222134661" class="mt-4 bg-blue-600 text-white px-4 py-2 rounded-full hover:bg-blue-700 w-full">Pesan Sekarang</a>
     </div>
 
     <!-- Paket Ikan Bakar -->
@@ -119,7 +119,7 @@
             <li>Lalapan Segar</li>
             <li>Kerupuk Merah</li>
         </ul>
-        <button class="mt-4 bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 w-full">Pesan Sekarang</button>
+        <a href="https://wa.me/+6288222134661" class="mt-4 bg-indigo-600 text-white px-4 py-2 rounded-full hover:bg-indigo-700 w-full">Pesan Sekarang</a>
     </div>
 
     <!-- Paket Komplit Minang -->
@@ -137,7 +137,7 @@
             <li>Sambal Ijo & Merah</li>
             <li>Kerupuk Jangek</li>
         </ul>
-        <button class="mt-4 bg-purple-600 text-white px-4 py-2 rounded-full hover:bg-purple-700 w-full">Pesan Sekarang</button>
+        <a href="https://wa.me/+6288222134661" class="mt-4 bg-purple-600 text-white px-4 py-2 rounded-full hover:bg-purple-700 w-full">Pesan Sekarang</a>
     </div>
 
 </div>
